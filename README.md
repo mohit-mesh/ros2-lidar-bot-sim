@@ -2,6 +2,9 @@
 
 A ROS 2 package for simulating a mobile robot equipped with a LiDAR sensor in Gazebo. This project serves as a sensor demonstration, showcasing how to mount and extract laser scan data from a static mobile robot model in a simulated environment.
 
+<img width="875" height="589" alt="Screenshot from 2026-07-25 14-47-07" src="https://github.com/user-attachments/assets/412422da-a524-442d-a9d8-136aa98d8043" />
+
+
 ## 🚀 Features
 - **Custom URDF:** Complete robot description utilizing `xacro` for modularity.
 - **Gazebo Integration:** Ready-to-use configuration for modern Gazebo using `ros_gz_bridge`.
