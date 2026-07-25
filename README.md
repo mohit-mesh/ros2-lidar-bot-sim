@@ -56,10 +56,10 @@ mobile_robot/
 ├── package.xml                    # Package dependencies
 ├── launch/
 │   └── gazebo_model.launch.py     # Brings up Gazebo and ROS 2 nodes
-├── urdf/
+├── model/
 │   ├── robot.xacro                # Robot geometry and joints
 │   └── robot.gazebo               # Gazebo materials and sensor plugins
-├── config/
+├── parameters/
 │   └── bridge_parameters.yaml     # Topic mapping between ROS 2 and Gazebo
 └── README.md                      # Project documentation
 ```
